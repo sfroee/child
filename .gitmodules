@@ -1,0 +1,6 @@
+[submodule "grandchild-1"]
+	path = grandchild-1
+	url = https://github.com/sfroee/grandchild-1
+[submodule "grandchild-2"]
+	path = grandchild-2
+	url = https://github.com/sfroee/grandchild-2
